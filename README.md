@@ -1,4 +1,4 @@
-﻿# ðŸ”® Lilith SÃ¡dica â€” Autonomous AI Agent Engine & Multimodal Voice Experience
+# 🔮 Lilith Sádica — Autonomous AI Agent Engine & Multimodal Voice Experience
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -10,24 +10,24 @@
 
 ---
 
-## ðŸ“Œ Overview
+## 📌 Overview
 
-**Lilith SÃ¡dica** is an autonomous AI agent engine featuring a specialized persona, multimodal live voice interaction, automated document compilation via Google Docs API, and social campaign orchestrations.
+**Lilith Sádica** is an autonomous AI agent engine featuring a specialized persona, multimodal live voice interaction, automated document compilation via Google Docs API, and social campaign orchestrations.
 
 The backend daemon utilizes PM2 for resilient background execution, dynamically handling Google OAuth token refreshes, voice synthesis proxying, and conversational intelligence across desktop and PWA clients.
 
 ---
 
-## âœ¨ Key Features
+## ✨ Key Features
 
-- ðŸŽ­ **Distinct Persona Engine:** Uncensored archetypal dialogue model with sharp wit, deep esoteric synthesis, and psychological insight.
-- ðŸŽ™ï¸ **Dual-Voice Realtime Pipeline:** WebSocket voice integration streaming ultra-low latency audio via Google GenAI.
-- ðŸ“‘ **Google Docs Automation:** Headless generation and publication of customized dossiers directly into Google Drive.
-- âš™ï¸ **Process Daemon & PM2 Config:** Production-ready lifecycle management with clustering, automated recovery, and cron tasks.
+- 🎭 **Distinct Persona Engine:** Uncensored archetypal dialogue model with sharp wit, deep esoteric synthesis, and psychological insight.
+- 🎙️ **Dual-Voice Realtime Pipeline:** WebSocket voice integration streaming ultra-low latency audio via Google GenAI.
+- 📑 **Google Docs Automation:** Headless generation and publication of customized dossiers directly into Google Drive.
+- ⚙️ **Process Daemon & PM2 Config:** Production-ready lifecycle management with clustering, automated recovery, and cron tasks.
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -38,11 +38,11 @@ The backend daemon utilizes PM2 for resilient background execution, dynamically 
 
 ---
 
-## ðŸš€ Getting Started
+## 🚀 Getting Started
 
 ```bash
 # Clone the repository
-git clone https://github.com/fdutragon/lilith-sadica.git
+git clone https://github.com/felipedutrag/lilith-sadica.git
 cd lilith-sadica
 
 # Install dependencies
@@ -54,7 +54,7 @@ npm run dev
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Developed by **Felipe Dutra**  
 - **GitHub:** [@felipedutrag](https://github.com/felipedutrag)  
